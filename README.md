@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Errabi</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco</h3>
 
-- 🌱 I’m currently learning **TypeScript,ReactJS,NextJS**
-
 - 💬 Ask me about **Java,Spring Boot,ES6,ReactJS**
 
 - 📫 How to reach me **errabi.ami@gmail.com**
