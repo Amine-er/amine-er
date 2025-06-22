@@ -1,28 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amine Errabi</h1>
-<h3 align="center">A passionate Fullstack developer from Morocco</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=141E8C&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohamed+Amine+Errabi!;Fullstack+Developer+(Spring+Boot+%2B+React);Clean+Code+Advocate+%F0%9F%93%96;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%94%A7" alt="Typing SVG" />
+</h1>
 
-- 💬 Ask me about **Java,Spring Boot,ES6,ReactJS**
+---
 
-- 📫 How to reach me **errabi.ami@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+🎯 Fullstack Developer | Java & React Enthusiast  
+💻 Focused on building scalable backend systems and dynamic UIs  
+🧠 Currently sharpening my skills in **Microservices**, **Docker**, and **Cloud Deployment**  
+
+- 🔧 **Stack**: Java • Spring Boot • React • PostgreSQL • Docker • Git  
+- 💬 Ask me about: `Java`, `Spring Boot`, `ES6+`, `ReactJS`  
+- 📫 Reach me at: **errabi.ami@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-amine-errabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-errabi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohamed-amine-errabi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Badges :</h3>
-<p align="left"> 
-    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C639AFBC8F9578D7B892124D5A402A52A1B867C1C837DDC2FEFA2880A7E5524F"> <img src="https://github.com/Amine-er/amine-er/assets/60274428/6d28dd12-f560-49cd-9826-a3d96efb1aeb" alt="OCAJSE8" height="120" width="240" /> </a> 
-    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D8DE699B47B88342A590FF8DF4410D5F7E7AF487CA722F7FE565B4B43BE36212"> <img src="https://github.com/user-attachments/assets/01d6fe95-0e1d-41ba-8835-b37171a4c51e" alt="OCPJSE17" height="125" width="240" /> </a>
-    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8CF530783E1B6076738BB31261A5E55258456868CE43D2B29A59718E1D8998CA"> <img src="https://github.com/user-attachments/assets/c7c01ed1-7c39-4172-8401-ae0bc170d6af" alt="OCPJSE21" height="125" width="125" /> </a>
+---
+
+<h3 align="left">🏅 Certifications</h3>
+
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C639AFBC8F9578D7B892124D5A402A52A1B867C1C837DDC2FEFA2880A7E5524F" target="_blank">
+    <img src="https://github.com/Amine-er/amine-er/assets/60274428/6d28dd12-f560-49cd-9826-a3d96efb1aeb" alt="OCAJSE8" width="240"/>
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D8DE699B47B88342A590FF8DF4410D5F7E7AF487CA722F7FE565B4B43BE36212" target="_blank">
+    <img src="https://github.com/user-attachments/assets/01d6fe95-0e1d-41ba-8835-b37171a4c51e" alt="OCPJSE17" width="240"/>
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8CF530783E1B6076738BB31261A5E55258456868CE43D2B29A59718E1D8998CA" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7ae98cc2-a62c-4476-be69-5a0f56b9d361" alt="OCPJSE21" width="240"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-er&show_icons=true&locale=en&layout=compact" alt="amine-er" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-er&show_icons=true&locale=en" alt="amine-er" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amine-er&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-er&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amine-er&" alt="amine-er" /></p>
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amine-er&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💡 Fun Fact
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – *Martin Fowler*
 
