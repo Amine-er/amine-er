@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=141E8C&center=true&vCenter=true&width=800&lines=Hello+World+💻+I'm+Mohamed+Amine!;A+Fullstack+Web+Developer;Computer+enthusiast,+Open+Source+Fan+%F0%9F%93%96;Always+learning+new+things%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a44401c7-6db4-4a7c-a63b-72518411c005" width="50%" />
+</p>
+
 ---
 
 ### 🚀 About Me
