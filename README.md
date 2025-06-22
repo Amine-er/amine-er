@@ -1,6 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=amine-er&label=Profile%20views&color=0e75b6&style=flat)
+
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=141E8C&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohamed+Amine+Errabi!;Fullstack+Developer+(Spring+Boot+%2B+React);Clean+Code+Advocate+%F0%9F%93%96;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=141E8C&center=true&vCenter=true&width=800&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Mohamed+Amine!;A+Fullstack+Web+Developer;Computer+enthusiast,+Open+Source+Fan+%F0%9F%93%96;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%94%A7" alt="Typing SVG" />
 </h1>
 
 ---
