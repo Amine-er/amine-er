@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=141E8C&center=true&vCenter=true&width=800&lines=Hello+World+💻+I'm+Mohamed+Amine!;A+Fullstack+Web+Developer;Computer+enthusiast,+Open+Source+Fan+%F0%9F%93%96;Always+learning+new+things%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=141E8C&center=true&vCenter=true&width=800&lines=Hello+World+💻+I'm+Mohamed+Amine!;A+Fullstack+Web+Developer;Computer+enthusiast,+Open+Source+Fan+^^;Always+learning+new+things+%F0%9F%93%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
